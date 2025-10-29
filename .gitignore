@@ -1,0 +1,6 @@
+data_compressed/
+data_extracted/
+*.zip
+*.csv
+*.twb
+*.twbr
